@@ -1,0 +1,4 @@
+server.port: 8074
+spring:
+  application:
+    name: division-service
